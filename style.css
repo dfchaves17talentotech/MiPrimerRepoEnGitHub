@@ -37,3 +37,11 @@ li {
 p {
     font-size: 1em;
 }
+
+.image__container {
+    max-width: 700px;
+}
+
+.header__container {
+    text-align: center;
+}
